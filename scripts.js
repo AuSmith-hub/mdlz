@@ -103,7 +103,7 @@ function setActiveLetter(letter) {
 
 // Function to fetch and parse CSV file
 function fetchCSV() {
-    fetch('acronyms.csv')
+    fetch('data.csv')
         .then(response => response.text())
         .then(data => {
             const rows = data.split('\n').filter(row => row.trim() !== ''); // Filter out empty rows
