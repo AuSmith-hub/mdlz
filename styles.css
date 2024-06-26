@@ -23,6 +23,7 @@ h1 {
 #acronymList {
     list-style-type: none;
     padding: 0;
+    overflow-y: scroll; /* 允许垂直滚动 */
 }
 
 #acronymList li {
@@ -59,7 +60,7 @@ h1 {
 
 #alphabetBar {
     position: fixed;
-    top: 20%;
+    top: 50%;
     right: 5px;
     transform: translateY(-50%);
     background-color: transparent;
@@ -77,9 +78,10 @@ h1 {
 
 #alphabetBar a {
     display: block;
-    padding: 10px;
+    padding: 2px;
     color: #333;
     text-decoration: none;
+    font-size: 16px; /* 设置字体大小 */
 }
 
 #alphabetBar a.active {
@@ -105,4 +107,21 @@ h1 {
     #acronymList li {
         padding: 10px;
     }
+}
+
+#backToTop {
+    position: fixed;
+    bottom: 20px; /* 距离底部20px */
+    right: 20px; /* 距离右侧20px */
+    background-color: #333; /* 背景颜色 */
+    color: white; /* 文字颜色 */
+    padding: 10px 15px; /* 内边距 */
+    text-decoration: none; /* 去除下划线 */
+    border-radius: 5px; /* 边框圆角 */
+    display: none; /* 默认不显示 */
+    z-index: 1000; /* 确保在页面其他元素之上 */
+}
+
+#backToTop:hover {
+    background-color: #555; /* 鼠标悬浮时的背景颜色 */
 }
