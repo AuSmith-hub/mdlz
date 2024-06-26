@@ -36,6 +36,7 @@ function fetchCSV() {
             const rows = data.split('\n'); // Filter out empty rows
             rows.forEach(row => {
                 const [acronym, fullForm, meaning] = row.split('\t');
+                if (!fullForm && !meaning) return;
                 acronymList.push({ acronym, fullForm, meaning });
             });
             renderList(acronymList);
