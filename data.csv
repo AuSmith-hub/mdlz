@@ -4,11 +4,12 @@ A&C	Advertising & Consumer promotion expense	广告与促销费用
 AC	Annual contract	年度合同
 AFH	Away from Home	餐饮特渠
 AMEA	Asia, Middle East, Africa	亚洲，中东，非洲
-AR	account receivable	应收账款
 AP	Account payable	应付账款
+AR	account receivable	应收账款
 Army 1		第一战队（亿滋销售团队）
 Army 2		第二战队（专属DT团队）
 Army 3		第三战队（县域经销商主管+共享DT团队）
+ATOM		阿童木——亿滋销售的主数据平台
 B2B	Business-to-Business	企业对企业
 B2C	Business-to-Consumer	企业对消费者
 BHT	Brand health tracking	品牌健康度跟踪
@@ -29,7 +30,7 @@ CS&L	Customer Service & Logistics	客户服务与物流
 CVS	Convenience store	便利店
 DC	Distribution center 	配送中心
 DEI	Diversity, Equity, Inclusion	多元平等包容
-Merchandiser		理货员
+Digital RTM		慧眼——识别高潜门店的数字化工具（利用GPS技术，根据门店地理位置、周边环境等因素，识别高潜门店，提供一双慧眼实现高质量拓店）
 DOM	Distributor Operation Manager	经销商运作经理（专职销售亿滋产品）
 DOS	Days of Stock	库存天数
 DSF	Distributor Sales Force	经销商门店负责人（专职销售亿滋产品）
@@ -49,11 +50,15 @@ FP	Family package	家庭装
 FP&A	Financial planning & analysis	财务计划与分析
 Frozen Cake		冷冻蛋糕
 GC	Great China	大中华区
+GKAM	Group key account manager	大客户群经理
 GM	Gross margin	毛利率
+Goldeneye		黄金眼——渠道数据获取与内化的数字工具（将零售商ERP数据与亿滋销售拜访数据结合，从而提供可靠的报告，帮助用户了解核心商业驱动因素，并采取合适行动的业务解决方案）
 Grocery		杂货店
 Group buy		团购
 GS	Gross Sales	毛销售
 GTN	Gross to net	毛额转净额
+Halls		荷氏薄荷糖
+Hawkeye		鹰眼——渠道数据获取与内化的数字工具（将经销商ERP数据与亿滋销售拜访数据结合，从而提供可靠的报告，帮助用户了解核心商业驱动因素，并采取合适行动的业务解决方案）
 HC	Headcount 	编制数
 HQ	Headquarter	总部
 Hyper		大卖场
@@ -63,7 +68,6 @@ JBP	Joint Business Plan	联合商业计划
 JD	Job description	岗位描述
 JE	Job evaluation	岗位评估
 KA	Key account	大客户（如沃尔玛、华润万家）
-GKAM	Group key account manager	大客户群经理
 KPI	Key performance indicator	关键绩效指标
 LKA	Local Key Account	地域大客户
 LM	Line Manager	直线经理
@@ -74,6 +78,7 @@ M&A	Merge and Acqusition	企业并购
 MCM	Mondelez City Manger	亿滋城市经理
 MCS	Mondelez City Supervisor	亿滋城市主管
 MDM	Mondelez Distributor Manager	亿滋城市经理（间供）
+Merchandiser		理货员
 MIP	Management Incentive Plan	管理激励计划
 MKT& Growth	Market & Growth	市场与增长部门
 MS	Market share	市场份额
@@ -105,6 +110,7 @@ OTD	On time delivery	准时到货率
 OVH	Overhead	正式员工薪酬相关费用
 P&L	Profit and Loss	损益表
 Pacific		太平
+PEA	Point event Analytics	促销投资分析
 Pellet		粒装
 PI	Purchasing intention	购买意愿
 POB	Point of buying	售点
@@ -141,7 +147,6 @@ Super L		小超市
 T&L 	Test and Learn	在测试中学习
 TA	Talent Acquisition	人员招聘
 Tang		果珍冲饮
-Halls		荷氏薄荷糖
 TBC	To be confirmed	待确认
 TBD	To be determined	待确认
 TC	Technology Center	技术中心
@@ -163,8 +168,3 @@ WOW	Ways Of Working	工作方式
 WS	Wholesale	批发
 YER	Year End Review	年终回顾
 YTD	Year-to-Date	今年迄今为止
-PEA	Point event Analytics	促销投资分析
-Digital RTM		慧眼——识别高潜门店的数字化工具（利用GPS技术，根据门店地理位置、周边环境等因素，识别高潜门店，提供一双慧眼实现高质量拓店）
-ATOM		阿童木——亿滋销售的主数据平台
-Hawkeye		鹰眼——渠道数据获取与内化的数字工具（将经销商ERP数据与亿滋销售拜访数据结合，从而提供可靠的报告，帮助用户了解核心商业驱动因素，并采取合适行动的业务解决方案）
-Goldeneye		黄金眼——渠道数据获取与内化的数字工具（将零售商ERP数据与亿滋销售拜访数据结合，从而提供可靠的报告，帮助用户了解核心商业驱动因素，并采取合适行动的业务解决方案）
